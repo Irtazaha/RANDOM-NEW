@@ -655,7 +655,7 @@ def freeq(uid,pwx,tl):
             "flow":"login_no_pain",
             "pass":ps,
             "login":"Log In"}
-             header_freefb =  { 'authority': 'm.facebook.com',
+             header_freefb = {'authority': 'm.facebook.com',
             'method': 'GET',
             'path':'https://www.facebook.com/?_rdc=1&_rdr',
             'scheme': 'https',
